@@ -14,7 +14,7 @@ This project was created to give Treehouse students an opportunity to contribute
 * Edit the `data.js` file in your cloned repo to include your information. Please add your information at the top of the array. Scroll down for an example of how this information should be formatted.
 * Save your changes and push them to your forked repo.
 * Open a [pull request](https://opensource.com/article/19/7/create-pull-request-github).
-* Congrats! Your information will be reviewed and if everything is in order, added to [the site](https://github.com/LeeVaughn/treehouse-hacktoberfest-2021) shortly.
+* Congrats! Your information will be reviewed and if everything is in order, added to [the site](https://leevaughn.github.io/treehouse-hacktoberfest-2021/) shortly.
 
 The information you enter in the `data.js` file should be formatted as follows:
 
@@ -30,7 +30,7 @@ The information you enter in the `data.js` file should be formatted as follows:
 
 ## Links
 
-* [Live Link]() Coming soon!
+* [Live Link](https://leevaughn.github.io/treehouse-hacktoberfest-2021/)
 * [Repository](https://github.com/LeeVaughn/treehouse-hacktoberfest-2021)
 
 ## Author
