@@ -2,6 +2,14 @@
 
 const data = [
   {
+    url: "https://teamtreehouse.com/JoshDate.json",
+    name: "Josh Date",
+    profile_name: "joshdate",
+    gravatar_url:
+      "https://uploads.teamtreehouse.com/production/profile-photos/11563799/avatar_1623101171669.jpg",
+    points: 12279,
+  },
+  {
     url: "https://teamtreehouse.com/indiablonix.json",
     name: "Karla Walker",
     profile_name: "indiablonix",
