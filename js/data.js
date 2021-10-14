@@ -2,6 +2,14 @@
 
 const data = [
   {
+    url: "https://teamtreehouse.com/constbeecoding.json",
+    name: "Luna B",
+    profile_name: "constbeecoding",
+    gravatar_url:
+      "https://pbs.twimg.com/profile_images/1426677317728886791/CHGJXDlb_400x400.jpg",
+    points: 13151,
+  },
+  {
     url: "https://teamtreehouse.com/rohald89.json",
     name: "Rohald van Merode",
     profile_name: "rohald89",
